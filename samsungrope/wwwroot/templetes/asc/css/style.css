@@ -1294,14 +1294,20 @@ ol {
     opacity: .6;
     z-index: 0
 }
-.hero-section.fullwidth-header{
+.hero-section.fullwidth-header {
     padding-top: 100px;
     padding-bottom: 405px;
-    background-image: url(../img/bg-img/header-bg3.png);
+    background-image: url(../img/rope/bg.png);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+
+
+
+
 .hero-section.fullwidth-header .special-head.dark{
     padding-left: 0
 }

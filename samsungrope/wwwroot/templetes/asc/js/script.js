@@ -19,10 +19,10 @@
     $window.on('scroll', function () {
         if ($window.scrollTop() > 0) {
             $('.header-area').addClass('sticky');
-            nav_brand1.setAttribute('src', '/templetes/asc/img/core-img-asc/logo_.png');
+           // nav_brand1.setAttribute('src', '/templetes/asc/img/core-img-asc/logo_.png');
         } else {
             $('.header-area').removeClass('sticky');
-            nav_brand1.setAttribute('src', '/templetes/asc/img/core-img-asc/logo.png');
+           // nav_brand1.setAttribute('src', '/templetes/asc/img/core-img-asc/logo.png');
         }
     });
 
